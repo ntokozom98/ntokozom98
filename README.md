@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ntokozo m 
-- 👀 I’m interested in mobile development and analytics
-- 🌱 I’m currently learning kotlin, javascript, vue, flutter
-- 💞️ I’m looking to collaborate on any development project.
+- 👋 Hi there, I'm Nontokozo
+- 👀 I’m Passionate about data engineering and analytics
+- 🌱 I’m currently upskilling my Python by working on more projects
 - 📫 How to reach me nontokozomhlongom@gmail.com
 
 <!---
