@@ -1,5 +1,5 @@
 - 👋 Hi there, I'm Nontokozo
-- 👀 I’m Passionate about data engineering and analytics
+- 👀 I’m passionate about data engineering and analytics
 - 🌱 I’m currently upskilling my Python by working on more projects
 - 📫 How to reach me nontokozomhlongom@gmail.com
 
